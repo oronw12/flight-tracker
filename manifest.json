@@ -1,5 +1,5 @@
 {
-  "name": "Flights",
+  "name": "Live Flight Tracker",
   "short_name": "Flights",
   "start_url": "/",
   "display": "standalone",
