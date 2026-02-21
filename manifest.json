@@ -1,5 +1,5 @@
 {
-  "name": "Live Flight Tracker",
+  "name": "Flights",
   "short_name": "Flights",
   "start_url": "/",
   "display": "standalone",
@@ -7,10 +7,10 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/512px-Plane_icon_nose_up.svg.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/723/723964.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
