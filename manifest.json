@@ -1,13 +1,15 @@
 {
+  "id": "com.oron.flighttracker",
   "name": "Live Flight Tracker",
   "short_name": "Flights",
+  "description": "Real-time global flight tracking application.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "android-launchericon-512-512.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/723/723964.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
