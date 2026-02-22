@@ -1,0 +1,39 @@
+{
+  "background_color": "hsv(0, 0%, 0%)",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Live Flight Tracker‏",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "‏Flights‏",
+  "start_url": "/https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Plane_icon_nose_up.svg/512px-Plane_icon_nose_up.svg.png",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://flight-tracker-0n5i.onrender.com/favicon.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://flight-tracker-0n5i.onrender.com/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "lang": "he"
+}
